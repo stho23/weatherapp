@@ -7,6 +7,10 @@
   padding: 25px;
 }
 
+body {
+  background-color: rgb(156, 209, 209);
+}
+
 .input {
   padding: 15px;
   width: 80%;
@@ -29,17 +33,18 @@
 
 .city {
   font-size: 30px;
-  font-weight: 200;
+  font-weight: 500;
 }
 
 .temp {
   font-size: 30px;
   padding: 10px;
+  background-color: white;
   border: 1px solid lightgray;
   border-radius: 12px;
 }
 
 .weather {
   font-size: 30px;
-  font-weight: 200;
+  font-weight: 500;
 }
